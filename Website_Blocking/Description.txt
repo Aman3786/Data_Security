@@ -1,2 +1,5 @@
 This program is about the website blocking for a particular interval of time.
 This will not allow others to access any particular website that you have blocked.
+In this we make the changes in host file. So when ever the user visit  
+the website the browser should automatically redirect to page where it would show error.
+
