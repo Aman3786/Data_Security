@@ -1,7 +1,7 @@
 from datetime import datetime as dt
 import time
 
-
+# Here is the dummy name of the website
 website =["www.example2.com", "example2.com","www.example1.com","example1.com"]
 # this host file path is for Windows
 # host_windows =r"C:\Windows\System32\drivers\etc\hosts"
